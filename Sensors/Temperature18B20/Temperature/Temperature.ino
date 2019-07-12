@@ -27,5 +27,5 @@ void loop(void){
   Serial.print(sensors.getTempCByIndex(0)); 
   Serial.print(" - Fahrenheit temperature: ");
   Serial.println(sensors.getTempFByIndex(0));
-  delay(1000);
+  
 }
