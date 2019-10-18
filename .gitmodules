@@ -1,0 +1,3 @@
+[submodule "project/client/pubsubclient"]
+	path = project/client/pubsubclient
+	url = https://github.com/knolleary/pubsubclient

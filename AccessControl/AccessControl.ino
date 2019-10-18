@@ -350,7 +350,7 @@ void granted ( uint16_t setDelay) {
 void denied() {
   _print("No mano tas botao");
   }
-
+sss
 
 ///////////////////////////////////////// Get PICC's UID ///////////////////////////////////
 uint8_t getID() {
